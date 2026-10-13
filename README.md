@@ -14,11 +14,11 @@
 
 ### 2. Session
 - [Customer Churn](sessions/2_session/customer_churn_starting_point.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/sessions/2_session/customer_churn_starting_point.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_starting_point.ipynb))
 
 ### 3. Session
 - [Customer Churn](sessions/2_session/customer_churn.ipynb)
-([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/sessions/2_session/customer_churn.ipynb))
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn.ipynb))
 
 ### 4. Session
 
