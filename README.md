@@ -11,7 +11,6 @@
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/1_session/linear_regression_fmcg_quantity_starting_point.ipynb))
 
 
-
 ### 2. Session
 - [Customer Churn](sessions/2_session/customer_churn_starting_point.ipynb)
 ([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_starting_point.ipynb))
