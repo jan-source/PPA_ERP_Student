@@ -1,0 +1,38 @@
+
+
+## Sessions
+
+### 0. Session
+- [Introduction to Pandas](sessions/0_session/intro_pandas.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/0_session/intro_pandas_starting_point.ipynb))
+
+### 1. Session
+- [Quantity Forecasting Starting Point](sessions/1_session/linear_regression_fmcg_quantity_forcasting_starting_point.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/1_session/linear_regression_fmcg_quantity_forcasting_starting_point.ipynb))
+
+- [Quantity Forecasting Solution](sessions/1_session/linear_regression_fmcg_quantity_forcasting.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/1_session/linear_regression_fmcg_quantity_forcasting.ipynb))
+
+
+### 2. Session
+- [Customer Churn Starting Point](sessions/2_session/customer_churn_starting_point.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_starting_point.ipynb))
+
+- [Customer Churn Solution](sessions/2_session/customer_churn.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn.ipynb))
+
+### 3. Session
+- [Customer Churn Part 2 Starting Point](sessions/2_session/customer_churn.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn.ipynb))
+
+- [Customer Churn Part 2 Solution](sessions/3_session/customer_churn_explainable_ai.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/2_session/customer_churn_explainable_ai.ipynb))
+
+### 4. Session
+- [Predicting late Purchase Order Starting Point](sessions/4_session/purchase_data_erp_next_starting_point.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/4_session/purchase_data_erp_next_starting_point.ipynb))
+
+- [Predicting late Purchase Order Solution](sessions/4_session/purchase_data_erp_next_starting_point.ipynb)
+([Open in Colab](https://colab.research.google.com/github/jan-source/ppa_erp_student/blob/main/sessions/4_session/purchase_data_erp_next.ipynb))
+
+### 5. Session
